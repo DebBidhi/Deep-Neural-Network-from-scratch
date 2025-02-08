@@ -1,7 +1,7 @@
 # Deep Neural Network from Scratch
 
 ## Overview
-This project implements a deep neural network (DNN) from scratch using NumPy. The network is designed for binary classification tasks, specifically distinguishing between cars and non-cars from image data.
+This project implements a deep neural network (DNN) from scratch using NumPy. The primary goal of this project was to learn the fundamentals of deep neural networks. As of now, the implementation is used for binary classification tasks, specifically distinguishing between cars and non-cars from image data. However, the network structure is flexible and can be adapted for multi-class classification or other machine learning tasks in the future.
 
 ## Features
 - Implements a deep neural network with customizable layers.
@@ -36,7 +36,7 @@ This project implements a deep neural network (DNN) from scratch using NumPy. Th
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DebBidhi/Deep-Neural-Network-from-scratch.git
+   git clone https://github.com/yourusername/deep-neural-network.git
    cd deep-neural-network
    ```
 2. Install dependencies:
